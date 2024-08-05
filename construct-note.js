@@ -1,5 +1,5 @@
 // add whatever parameters you deem necessary
-function constructNote(msg, letters) {
+function constructNote(message, letters) {
     letterCount = {};
 
     for (let letter of letters) {
