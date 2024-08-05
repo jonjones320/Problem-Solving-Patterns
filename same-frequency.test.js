@@ -8,4 +8,5 @@ describe("sameFrequency", function() {
     expect(sameFrequency(34, 14)).toBe(false);
     expect(sameFrequency(22, 222)).toBe(false);
   });
+  
 });

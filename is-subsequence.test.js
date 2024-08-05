@@ -10,4 +10,5 @@ describe("isSubsequence", function() {
     expect(isSubsequence("notasubstring", "banana")).toBe(false);
     expect(isSubsequence("almost", "almossssss")).toBe(false);
   });
+  
 });

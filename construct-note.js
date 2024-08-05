@@ -12,5 +12,6 @@ function constructNote(msg, letters) {
         }
         letterCount[char]--;
     }
+    
     return true;
 }

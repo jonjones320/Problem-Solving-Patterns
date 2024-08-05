@@ -14,4 +14,5 @@ describe("countPairs", function() {
     expect(countPairs([1, 2, 3, 0, -1, -2], 0)).toBe(2);
     expect(countPairs([10, 4, 8, 2, 6, 0], 10)).toBe(3);
   });
+  
 });
